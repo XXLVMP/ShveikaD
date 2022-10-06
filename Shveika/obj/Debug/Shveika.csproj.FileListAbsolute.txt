@@ -1,0 +1,12 @@
+D:\XXPROG\XXVS\Shveika\Shveika\bin\Debug\Shveika.exe.config
+D:\XXPROG\XXVS\Shveika\Shveika\bin\Debug\Shveika.exe
+D:\XXPROG\XXVS\Shveika\Shveika\bin\Debug\Shveika.pdb
+D:\XXPROG\XXVS\Shveika\Shveika\obj\Debug\Shveika.csproj.AssemblyReference.cache
+D:\XXPROG\XXVS\Shveika\Shveika\obj\Debug\Shveika.csproj.SuggestedBindingRedirects.cache
+D:\XXPROG\XXVS\Shveika\Shveika\obj\Debug\Shveika.Authorization.resources
+D:\XXPROG\XXVS\Shveika\Shveika\obj\Debug\Shveika.Properties.Resources.resources
+D:\XXPROG\XXVS\Shveika\Shveika\obj\Debug\Shveika.csproj.GenerateResource.cache
+D:\XXPROG\XXVS\Shveika\Shveika\obj\Debug\Shveika.csproj.CoreCompileInputs.cache
+D:\XXPROG\XXVS\Shveika\Shveika\obj\Debug\Shveika.exe
+D:\XXPROG\XXVS\Shveika\Shveika\obj\Debug\Shveika.pdb
+D:\XXPROG\XXVS\Shveika\Shveika\obj\Debug\Shveika.Products.resources
